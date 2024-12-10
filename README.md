@@ -1,4 +1,6 @@
 # ATS-Resume-Analyzer-using-Gemini-Pro
+Tech stack Used: Python, Streamlit, Google Generative AI (Gemini), PyPDF2
+
 ATS Resume Analyzer
 The ATS Resume Analyzer is an AI-powered tool that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and provides valuable insights for career development. This Streamlit-based application leverages Google's Gemini AI to analyze resumes against job descriptions, offering three key features:
 
@@ -14,8 +16,19 @@ Get personalized skill improvement recommendations.
 Understand ATS compatibility and optimization strategies.
 This tool is designed to empower job seekers with actionable insights, helping them tailor their resumes effectively and strategically plan their career development.
 
-Tech stack Used:
-Python,
-Streamlit,
-Google Generative AI (Gemini),
-PyPDF2
+
+**The Web App Interface (Streamlit UI):**
+![sample output](https://github.com/user-attachments/assets/068de004-d13a-4c78-993b-bcd4b29f2dca)
+
+
+**Sample Output for "Improve Skills"**
+
+![Improve skills output](https://github.com/user-attachments/assets/13560b24-7ad4-4f85-85ea-bfde0077a895)
+
+**Sample Output for "Percentage Match with job description"**
+
+![Percentage Match output](https://github.com/user-attachments/assets/197d7f12-dcf3-462e-946a-42f716ea1024)
+
+**Sample Output for "Overall Resume Review"**
+
+![Resume Review output](https://github.com/user-attachments/assets/c4b3b9e7-d46f-4ba8-84ba-c5c6ac9459ee)
